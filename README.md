@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yanko249
-- 👀 I’m interested in computerscience, anime/manga/light novels, videogame (minecraft, LoL, terraria,...)
+- 👀 I’m interested in stuff.
 - 🌱 I’m currently learning scheme.
 - 💞️ I’m looking to collaborate on nothing , not right now at least.
 - 📫 How to reach me , pls don't.
